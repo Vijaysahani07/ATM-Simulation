@@ -83,6 +83,7 @@ public class atm
                 case 4:  
         //exit from the menu  
         System.exit(0);  
+        
             }  
         }  
     }  
