@@ -1,7 +1,7 @@
 # Bank
 We have Created Bank Simulation 
 
-#How to download
+# How to download
 1. Clone or Download the zip file 
 2. After Download Extract it
 3. Right click
